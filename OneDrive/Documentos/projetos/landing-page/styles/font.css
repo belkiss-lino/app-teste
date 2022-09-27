@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'sofia-carolyn';
+    src: url('../components/fonts/SofiaCarolyn.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'nestone';
+    src: url('../components/fonts/Nestone.otf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'roboto-light';
+    src: url('../components/fonts/Roboto-Light.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'louis-cafe';
+    src: url('../components/fonts/LouisCafe.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
